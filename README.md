@@ -1,4 +1,4 @@
-# ISL
+# IPL
 
 IPL (**I**nterpreted **P**rogramming **L**anguage), is a small programming language that is in development. For now, the first prototype is implemented inside of the [Luau](https://github.com/luau-lang), which is unsandboxed via [Lune](https://github.com/lune-org). The next prototype will be implemented inside of [OCaml](https://github.com/ocaml). The last, and final interpreter will be implemented inside of Rust, to maximize the safety and performance of the language.
 
