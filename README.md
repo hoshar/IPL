@@ -1,4 +1,15 @@
-# IPL
+<div align="center">
+<h1>IPL</h1>
+<img src="https://img.shields.io/github/actions/workflow/status/hoshar/ipl/blank.yml">
+<img src="https://img.shields.io/github/contributors/hoshar/IPL
+">
+<img src="https://img.shields.io/github/languages/count/hoshar/ipl
+">
+<img src="https://img.shields.io/github/languages/top/hoshar/ipl
+">
+</div>
+
+<br>
 
 IPL (**I**nterpreted **P**rogramming **L**anguage), is a small programming language that is in development. For now, the first prototype is implemented inside of the [Luau](https://github.com/luau-lang), which is unsandboxed via [Lune](https://github.com/lune-org). The next prototype will be implemented inside of [OCaml](https://github.com/ocaml). The last, and final interpreter will be implemented inside of Rust, to maximize the safety and performance of the language.
 
